@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "5c73412c-0c96-42de-ab32-03e58b78f888",
+    "Rules": "النصاب القانوني مطلوب لاتخاذ القرارات",
+    "Location": "المبنى 2، القاعة 305",
+    "MeetingStatus": 1,
+    "HasExpertAssist": true,
+    "MeetingDate": "2023-07-20T14:00:00",
+    "CommitteeId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2023-07-10T11:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "State": 0,
+    "Name": "اجتماع استراتيجية الربع الثالث"
+  }
+]

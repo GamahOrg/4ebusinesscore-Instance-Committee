@@ -1,0 +1,37 @@
+﻿
+
+namespace Committees.Infrastructure.Extention.IQueryable
+{
+
+    public static class IQueryableExtentions
+    {
+        /// <summary>
+        ///  function execute soft delete to Queryable objects
+        /// </summary>
+        public static void ExecuteBulkSoftDelete<T>(this IQueryable<T> queryable) where T : AuditEntity<Guid>
+
+        {
+            queryable.ExecuteUpdate(a => a.SetProperty(x => x.State, State.Deleted));
+
+        }
+
+        /// <summary>
+        ///  function execute soft delete to Collection Of Items
+        /// </summary>
+        public static void ExecuteBulkSoftDelete<T>(this ICollection<T> collection, IGRepository<T> repository) where T : AuditEntity<Guid>
+
+        {
+            if (collection is not null || collection.Count > 0)
+            {
+                foreach (var item in collection)
+                {
+                    item.State = State.Deleted;
+                    repository.UpdateEntity(item);
+                }
+            }
+
+
+        }
+
+    }
+}

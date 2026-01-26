@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "5c73412c-0c96-42de-ab32-03e58b78f555",
+    "Name": "د. أحمد محمد",
+    "PhoneNumber": "+966501234567",
+    "Job": "أستاذ علوم الحاسب",
+    "DestinationName": "جامعة الملك سعود",
+    "Email": "a.mohamed@ksu.edu.sa",
+    "PermissionId": "3567bde2-03f2-4586-4717-08dd04a1c7f7",
+    "CommitteeId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2023-07-01T10:10:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "State": 0
+  }
+]

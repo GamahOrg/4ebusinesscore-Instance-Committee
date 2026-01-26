@@ -1,0 +1,15 @@
+[
+  {
+    "ExternalMemberId": "5c73412c-0c96-42de-ab32-03e58b78f555",
+    "ProceedingId": "5c73412c-0c96-42de-ab32-03e58b78f000",
+    "Id": "5c73412c-0c96-42de-ab32-03e58b78f222",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2023-07-21T09:35:00",
+    "IsAttend": true,
+    "State": 0,
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "ProceedingAcceptance": 3,
+    "AcceptanceMessage": "موافق مع ملاحظات بسيطة"
+  }
+]

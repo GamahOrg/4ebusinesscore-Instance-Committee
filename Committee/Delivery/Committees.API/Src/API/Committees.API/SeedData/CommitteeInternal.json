@@ -1,0 +1,42 @@
+[
+  {
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "InternalMemberId": "5c73412c-0c96-42de-ab32-03e58b78f001",
+    "Id": "5c73412c-0c96-42de-ab32-03e58b78f011",
+    "CommitteeId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "CreatedOn": "2023-07-01T10:05:00",
+    "State": 0,
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  },
+  {
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "InternalMemberId": "5c73412c-0c96-42de-ab32-03e58b78f002",
+    "Id": "5c73412c-0c96-42de-ab32-03e58b78f012",
+    "CommitteeId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "CreatedOn": "2023-07-01T10:10:00",
+    "State": 0,
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  },
+  {
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "InternalMemberId": "5c73412c-0c96-42de-ab32-03e58b78f003",
+    "Id": "5c73412c-0c96-42de-ab32-03e58b78f013",
+    "CommitteeId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "CreatedOn": "2023-07-01T10:15:00",
+    "State": 0,
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  },
+  {
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "InternalMemberId": "5c73412c-0c96-42de-ab32-03e58b78f004",
+    "Id": "5c73412c-0c96-42de-ab32-03e58b78f014",
+    "CommitteeId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "CreatedOn": "2023-07-01T10:20:00",
+    "State": 0,
+    "UpdatedBy": null,
+    "UpdatedOn": null
+  }
+]

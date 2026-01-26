@@ -1,0 +1,19 @@
+[
+  {
+    "NameAr": "تم الموافقة",
+    "NameEn": "Approved"
+  },
+  {
+    "NameAr": "تم الرفض",
+    "NameEn": "Rejected"
+  },
+  {
+    "NameAr": "طلب تعديل",
+    "NameEn": "ModificationRequest"
+  },
+  {
+    "NameAr": "استقبال",
+    "NameEn": "Reservation"
+  }
+
+]

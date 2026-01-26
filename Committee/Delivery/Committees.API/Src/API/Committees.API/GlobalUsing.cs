@@ -1,0 +1,61 @@
+﻿global using Asp.Versioning;
+global using Committees.API.Extension;
+global using Committees.API.MiddleWares;
+global using Committees.Application;
+global using Committees.Application.Features.Committees.Commands.AssignWorkflowToCommittee;
+global using Committees.Application.Features.Committees.Commands.Delete;
+global using Committees.Application.Features.Committees.Commands.DeleteExternalMember;
+global using Committees.Application.Features.Committees.Commands.Post;
+global using Committees.Application.Features.Committees.Commands.Put;
+global using Committees.Application.Features.Committees.Commands.UpdateRequestStatus;
+global using Committees.Application.Features.Committees.Commands.UpdateExternalMember;
+global using Committees.Application.Features.Committees.Queries.GetAll;
+global using Committees.Application.Features.Committees.Queries.GetAllPaginated;
+global using Committees.Application.Features.Committees.Queries.GetById;
+global using Committees.Application.Features.Committees.Queries.GetCommitteeTimeTable;
+global using Committees.Application.Features.Meetings.Command.Post;
+global using Committees.Application.Features.Meetings.Queries.GetAllMeetings;
+global using Committees.Application.Features.Meetings.Queries.GetById;
+global using Committees.Application.Features.Meetings.Queries.GetMeetingByCommitteeId;
+global using Committees.Application.Features.Outputs.Command.Post;
+global using Committees.Application.Features.Outputs.Queries.GetAllOutputs;
+global using Committees.Application.Features.Outputs.Queries.GetOutputsByCommitteeId;
+global using Committees.Application.Features.OutputTypes.Command.Delete;
+global using Committees.Application.Features.OutputTypes.Command.Post;
+global using Committees.Application.Features.OutputTypes.Command.Put;
+global using Committees.Application.Features.OutputTypes.Query.GetAll;
+global using Committees.Application.Features.PermissionTypes.Command.Delete;
+global using Committees.Application.Features.PermissionTypes.Command.Post;
+global using Committees.Application.Features.PermissionTypes.Command.Put;
+global using Committees.Application.Features.PermissionTypes.Query.GetAll;
+global using Committees.Application.Features.Proceedings.Command.Post;
+global using Committees.Application.Features.Proceedings.Command.PostProceedingMemberAcceptance;
+global using Committees.Application.Features.Proceedings.Command.PostProceedingMembers;
+global using Committees.Application.Features.Proceedings.Command.PutAttendenceForProceedingMembers;
+global using Committees.Application.Features.Proceedings.Queries.GetAll;
+global using Committees.Application.Features.Proceedings.Queries.GetProceedingByCommitteeId;
+global using Committees.Application.Helpers;
+global using Committees.Application.Services;
+global using Committees.Infrastructure.Context;
+global using Committees.Infrastructure.GenericRepo;
+global using Committees.Infrastructure.Helpers;
+global using Committees.Infrastructure.ResponseDto;
+global using Committees.Infrastructure.UnitOfWork;
+global using Domain.Enums;
+global using MediatR;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Server.Kestrel.Core;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.FileProviders;
+global using Microsoft.Net.Http.Headers;
+global using Microsoft.OpenApi.Models;
+global using Serilog;
+global using System.Net;
+global using System.Text.Json;
+
+
+
+
+

@@ -1,0 +1,43 @@
+[
+
+  {
+    "Id": "7656f8b5-093f-4274-9a8a-7ea0c92cb3e9",
+    "NameAr": "الصنف الاول",
+    "NameEn": "first type",
+    "Description": "Test",
+    "CSSClasses": "4explain",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "1020-05-02 00:00:00.0000000",
+    "UpdatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "UpdatedOn": "1020-05-02 00:00:00.0000000",
+    "State": 0
+
+  },
+  {
+    "Id": "7656f8b5-093f-4274-9a8a-7ea0c92cb310",
+    "NameAr": "الصنف الثاني",
+    "NameEn": "second type",
+    "Description": "Test",
+    "CSSClasses": "4explain",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "1020-05-02 00:00:00.0000000",
+    "UpdatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "UpdatedOn": "1020-05-02 00:00:00.0000000",
+    "State": 0
+
+  },
+  {
+    "Id": "7656f8b5-093f-4274-9a8a-7ea0c92cb311",
+    "NameAr": "الصنف الثالث",
+    "NameEn": "third type",
+    "Description": "Test",
+    "CSSClasses": "4explain",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "1020-05-02 00:00:00.0000000",
+    "UpdatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "UpdatedOn": "1020-05-02 00:00:00.0000000",
+    "State": 0
+
+  }
+]
+

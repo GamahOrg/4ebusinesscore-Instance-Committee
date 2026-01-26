@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "5c73412c-0c96-42de-ab32-03e58b78f000",
+    "CommitteeId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "Name": "محضر اجتماع يوليو 2023",
+    "Notes": "تمت الموافقة على خطة الهجرة السحابية",
+    "Date": "2023-07-20T00:00:00",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2023-07-21T09:00:00",
+    "UpdatedBy": null,
+    "UpdatedOn": null,
+    "State": 0
+  }
+]

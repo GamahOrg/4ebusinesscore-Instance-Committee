@@ -1,0 +1,64 @@
+[
+
+    {
+        "Id": "32820481-5dfb-4aa8-b43b-ce3e486928a7",
+        "NameAr": "امين اللجنة",
+        "NameEn": "Committee Keeper",
+        "Description": "IsExpert",
+        "CSSClasses": "Employee",
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CreatedOn": "2022-05-07 00:00:00.0000000",
+        "UpdatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "UpdatedOn": "2022-05-07 00:00:00.0000000",
+        "State": 0
+    },
+    {
+        "Id": "32820481-5dfb-4aa8-b43b-ce3e486928b7",
+        "NameAr": "عضو لجنه",
+        "NameEn": "Committee member",
+        "Description": "IsExpert",
+        "CSSClasses": "Employee",
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CreatedOn": "2022-05-07 00:00:00.0000000",
+        "UpdatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "UpdatedOn": "2022-05-07 00:00:00.0000000",
+        "State": 0
+    },
+    {
+        "Id": "32820481-5dfb-4aa8-b43b-ce3e486928d7",
+        "NameAr": "رئيس لجنه",
+        "NameEn": "Chairman of the Committee",
+        "Description": "IsExpert",
+        "CSSClasses": "Employee",
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CreatedOn": "2022-05-07 00:00:00.0000000",
+        "UpdatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "UpdatedOn": "2022-05-07 00:00:00.0000000",
+        "State": 0
+    },
+    {
+        "Id": "975912ea-8064-498b-66d3-08dd06f363aa",
+        "NameAr": "مساعد امين لجنه",
+        "NameEn": "Committee Keeper Assistant",
+        "Description": "IsExpert",
+        "CSSClasses": "Employee",
+        "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "CreatedOn": "2022-05-07 00:00:00.0000000",
+        "UpdatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+        "UpdatedOn": "2022-05-07 00:00:00.0000000",
+        "State": 0
+    },
+  {
+    "Id": "3567bde2-03f2-4586-4717-08dd04a1c7f7",
+    "NameAr": "مختص خارجي",
+    "NameEn": "External Expert",
+    "Description": "IsExpert",
+    "CSSClasses": "Employee",
+    "CreatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "CreatedOn": "2022-05-07 00:00:00.0000000",
+    "UpdatedBy": "3eb17e81-ede8-4b02-90a1-3625e695af03",
+    "UpdatedOn": "2022-05-07 00:00:00.0000000",
+    "State": 0
+  }
+]
+
